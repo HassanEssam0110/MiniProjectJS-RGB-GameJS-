@@ -5,6 +5,9 @@
 
   --hight-cards: 200px;
 }
+/* ::selection {
+  background-color: #6225e6;
+} */
 
 body {
   font-family: "Fredoka One", cursive;
@@ -228,7 +231,7 @@ path.two {
 
 @media screen and (max-width: 767px) {
   .header-title {
-    font-size: 45px;
+    font-size: 40px;
   }
   .w-custom,
   .btn-level {
