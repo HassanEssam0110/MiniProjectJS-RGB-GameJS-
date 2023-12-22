@@ -17,6 +17,4 @@ The "RGB Game" is a delightful and educational mini-project designed to make lea
 
 This project provides an ideal introduction to *RGB colors*, offering a simple yet captivating game environment that fosters learning in young minds.
 
-Feel free to contribute, share, or utilize this project as a valuable educational resource for budding learners!
-
 
